@@ -1,8 +1,8 @@
 ## Olá! Me chamo Carlos Henrique, e sou um entusiasta da programação! 🧑‍💻
 <div>
   <a href="https://github.com/HenriqueDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDeveloper&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=HenriqueDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDeveloper&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  ## Tecnologias que costumo utilizar em projetos
