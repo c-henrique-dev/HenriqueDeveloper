@@ -1,4 +1,4 @@
-## Olá! Me chamo Carlos Henrique, e sou um entusiasta da programação! 🧑‍💻
+## Olá, me chamo Carlos Henrique e sou um entusiasta da programação! 🧑‍💻
 <div>
   <a href="https://github.com/HenriqueDeveloper">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=HenriqueDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
